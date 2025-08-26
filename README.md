@@ -24,7 +24,7 @@ Eu sou um entusiasta em desenvolvimento, começando a minha carreira em 2025, de
 <p align="center">
   <a href="https://skillicons.dev">
     <br>
-    <img src="https://skillicons.dev/icons?i=python,c,html,css,vscode,github,windows" />
+    <img src="https://skillicons.dev/icons?i=python,c,html,css,git,vscode,github,windows,fastapi" />
   </a>
 </p>
 <br>
