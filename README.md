@@ -9,12 +9,12 @@ Eu sou um entusiasta em desenvolvimento, começando a minha carreira em 2025, de
 ### 🧐 Mais sobre mim:
 
 - 🔭 &nbsp; Atualmente estagiando na Corcovado GeoSub;
-- 🤝 &nbsp; Estou cursando técnico em informática focando em dev;
+- 🤝 &nbsp; Estou cursando técnico em informática focando em dev. back-end;
 - 🖥️ &nbsp; Meu estudo particular, no momento, é o CS50x; 
 - 🎨 &nbsp; Faço meus projetos pelo VSCode;
 - 💬 &nbsp; Gosto de ajudar com coisas relacionadas a tecnologia, então sinta-se livre para pedir ajuda;
 - 🎮 &nbsp; Quando eu to livre, curto muito jogar ou assistir algo para passar o tempo;
-- 🏋️ &nbsp; Fora o mundo da tecnologia, tenho na rotina academia, treino a 2 anos.
+- 🏋️ &nbsp; Fora o mundo da tecnologia, tenho academia como rotina, treino a 2 anos.
  
 <hr>
 <br>
