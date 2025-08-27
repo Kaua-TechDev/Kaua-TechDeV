@@ -38,7 +38,7 @@ Eu sou um entusiasta em desenvolvimento, começando a minha carreira em 2025, de
   <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Kaua-TechDev&show_icons=true&count_private=true&theme=default&cache_seconds=1800" />
 </a>
 <a href="https://github.com/Kaua-TechDev/convoychat">
-  <img width="23%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaua-TechDev&layout=pie&langs_count=8&card_width=300&include_all_commits=true&theme=default&cache_seconds=1800" />
+  <img width="23%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaua-TechDev&layout=pie&langs_count=8&card_width=300&count_private=true&theme=default&cache_seconds=1800" />
 </a
 
 </a>
