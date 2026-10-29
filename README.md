@@ -1,7 +1,7 @@
 <h2 align="center">Hello World! Prazer, Kauã! 👋</h2>
 
 <p align="center">
-  Desenvolvedor Backend baseado em Rio das Ostras – RJ 🇧🇷 &nbsp;|&nbsp; DevOps & Banco de Dados &nbsp;|&nbsp; IA Generativa
+  Desenvolvedor Backend 🇧🇷 &nbsp;|&nbsp; DevOps & Banco de Dados &nbsp;|&nbsp; IA Generativa
 </p>
 
 <br/>
