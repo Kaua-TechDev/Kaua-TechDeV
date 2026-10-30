@@ -15,9 +15,9 @@
 <li>🔭 &nbsp; Estagiando na <b>Corcovado GeoSub</b> (jul/2025 – jan/2027), atuando do desenvolvimento backend ao deploy em produção — FastAPI, PostgreSQL, Docker, Azure e CI/CD com GitHub Actions;</li>
 <li>🎓 &nbsp; Técnico em Informática concluído (jul/2026) · Cursando Engenharia de Software na Uninter (desde ago/2026);</li>
 <li>🤖 &nbsp; Explorando LLMs, agentes de IA e integração com APIs de modelos generativos no dia a dia;</li>
-<li>🌐 &nbsp; Inglês B2 — leio documentação, escrevo código e me comunico sem problema;</li>
-<li>💬 &nbsp; Gosto de ajudar com tecnologia — sinta-se livre para pedir ajuda;</li>
-<li>🏋️ &nbsp; Fora da tela: academia há 2 anos.</li>
+<li>🌐 &nbsp; Inglês B2;</li>
+<li>💬 &nbsp; Gosto de ajudar com tecnologia, me encontrar em um problema e quebrar a cabeça pra resolver;</li>
+<li>🏋️ &nbsp; Fora da tela: academia há quase 3 anos.</li>
 </ul>
 
 <br clear="both">
